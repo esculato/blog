@@ -1,7 +1,7 @@
 +++
 title = "NetHack"
-date = "2025-12-16T09:12:53+01:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
+date = "16-12-2025T09:12:53+01:00"
+#dateFormat = "02-01-2006" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
