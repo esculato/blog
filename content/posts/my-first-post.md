@@ -1,5 +1,5 @@
 +++
-title = "My First Post"
+title = "NetHack"
 date = "2025-12-16T09:12:53+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
@@ -9,9 +9,11 @@ tags = ["nethack", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
-hideComments = false
+readingTime = true
+hideComments = true
 +++
+
+NetHack [https://www.nethack.org/v367/Guidebook.html]
 
 Recently, you have begun to find yourself unfulfilled and distant in your daily occupation.  Strange dreams of prospecting, stealing, crusading, and combat have haunted you in your sleep for many months, but you aren't sure of the reason.  You wonder whether you have in fact been having those dreams all your life, and somehow managed to forget about them until now.  Some nights you awaken suddenly and cry out, terrified at the vivid recollection of the strange and powerful creatures that seem to be lurking behind every corner of the dungeon in your dream.  Could these details haunting your dreams be real?  As each night passes, you feel the desire to enter the mysterious caverns near the ruins grow stronger.  Each morning, however, you quickly put the idea out of your head as you recall the tales of those who entered the caverns before you and did not return.  Eventually you can resist the yearning to seek out the fantastic place in your dreams no longer.  After all, when other adventurers came back this way after spending time in the caverns, they usually seemed better off than when they passed through the first time.  And who was to say that all of those who did not return had not just kept going? 
  
